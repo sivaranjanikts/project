@@ -1,39 +1,3 @@
-/*package mapping;
-import java.util.HashMap;
-
-public class mapping {
-	void m1()
-	{
-	HashMap<Integer,String> employemap=new HashMap<Integer,String>();
-	employemap.put(1,"car");
-	employemap.put(2,"bus");
-
-	employemap.put(3,"bike");
-	employemap.put(4,"lorry");
-	
-	//System.out.println("employemap:" +empolyemap);
-	
-	employemap.put(11,"XYZ");
-	employemap.put(null,"ABC");
-	System.out.println("employemap:" +employemap);
-
-	}
-    
-	
-	
-	  
-	
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		mapping ob=new mapping();
-		ob.m1();
-	}
-
-}*/
-
-
 package mapping;
 import java.util.*;
 public class mapping {
