@@ -1,5 +1,6 @@
 package mapping;
 import java.util.*;
+// add lines
 public class mapping {
 	public static void main(String[] args) {
      Map<String,String> map =new HashMap<>();
